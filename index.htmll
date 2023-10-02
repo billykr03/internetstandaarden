@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy places</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>  
+<h1>Happy places </h1> 
+
+<header>
+    <button class="Home-button">Home</button>
+    <button class="Festivals">Festivals</button>
+    <a class="Overons">Over ons</a>
+    <a class="Contact">Contact</a>
+    <a class="Login">Login</a>
+</header>
+
+
+<header>
+<p>Wil jij dat je eerst volgende event een 
+    onvergetelijk moment wordt? 
+    Happy places biedt de leukste events en een 
+    persoonlijke review bij elk festival. </p>
+</header>
+
+<h3>Blijf op de hoogte van je favoriete festivals</h3>
+
+<footer class="ADE Programma">ADE Programma</footer>
+
+<img class="img-studio-arena" src="img.jpg" alt="img.img-studio-arena">
+<h4>Studio Arena - Get into the production ring!</h4>
+
+<img class="img-eventixx" src="eventix.jpg" alt="img.eventix">
+<h5>Eventix Opening Boat Cruise</h5>
+
+
+</body>
+</html>

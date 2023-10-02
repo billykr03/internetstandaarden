@@ -1,15 +1,117 @@
 body {
-background-color: darksalmon;
+background-color: rgb(249, 234, 209)
 }
 
 h1{
-    color: black;
+    color: rgb(255, 255, 255);
     text-align: center;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 43px;
+    font-family: Lucida;
+    font-weight: normal;
+    height: 64px;
+    background-color: rgb(254, 143, 123);
+    border-style: double;
+    border-color: rgb(255, 255, 255);
 }
 
-button {
+.Home{
+    color:black;
+    background-color:rgb(255, 215, 222);
+    height: 2em;
+    width: 110px;
+    margin-left: 6%;
+    border-style: dotted dashed solid double;
+} 
+
+.Festival {
     color: black;
-    
-
+    background-color:pink;
+    height: 2em;
+    width: 110px;
+    margin-left: 8%;
+    border-style: dotted dashed solid double;
 }
+
+.Contact {
+    color: black;
+    background-color: rgb(249, 132, 152);
+    height: 2em;
+    width: 110px;
+    margin-left: 8%;
+    border-style: dotted dashed solid double;
+}
+
+.Login {
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 96, 122);
+    height: 2em;
+    width: 110px;
+    margin-left: 10%;
+    border-style: dotted dashed solid double;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+color:black;
+font-family: Garamond;
+font-weight: normal;
+font-size:  20px;
+}
+
+h3{
+    font-size: 22px;
+    text-align: left;
+}
+
+header {
+     display: flex;
+    justify-content: center;
+}
+
+footer {
+    color: black;
+    background-color:pink;
+    height: 25px;
+    width: 130px;
+    margin-right: 25px;
+    border-style: dotted dashed solid double;
+    cursor: pointer;
+}
+
+.ade-festival23 {
+    width: 73em;
+    height: 18em;
+    display: block;
+    margin-right: 0%;
+    margin-left: 0%;
+ }
+
+.Image-list {
+list-style: none;
+padding: 0%;
+margin: 0%;
+}
+
+.Image-list li {
+display: inline-block;
+margin-right: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
